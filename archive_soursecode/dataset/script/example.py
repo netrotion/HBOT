@@ -1,0 +1,1 @@
+print("MẸ MÀY BÉO")

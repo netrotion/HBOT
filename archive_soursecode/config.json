@@ -1,0 +1,14 @@
+{
+    "phone" : "0949018506",
+    "password" : "Lamkhanhdeptrai13",
+    "imei" : "6e2d626b-1a19-4147-ae29-e5fa93a908ac-7675d59b5e84e0a878ee6f0a97f9056f",
+    "gptkey" : "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",
+    "cloudid" : "3147261242347900957",
+    "cookies" : {"_zlang":"vn","_ga":"GA1.2.926375652.1731161980","_gid":"GA1.2.1225117270.1731161980","_gat":"1","zpsid":"PRh-.425771065.1.BhJYYmGXMMizuJbo225PQt5IArys56vSDH5lNWgJqDhfMOBB1RasH6CXMMi","zpw_sek":"PNl7.425771065.a0.Y-0pmzx6Wv3d1kE9_yQ3aANavlly_A79bw2wv9ltoTUmhTBJXeBMrwc0zwIf-xwoeyWn6Myh-qj-nnh_yQ63a0","__zi":"3000.SSZzejyD3yaynFwzpKGIpZ37_hRBJXo4FCRqkeG30SeothVcbWbFXZRS_wsL2ag7D97-h99FIuS_dFwkDpSn.1","__zi-legacy":"3000.SSZzejyD3yaynFwzpKGIpZ37_hRBJXo4FCRqkeG30SeothVcbWbFXZRS_wsL2ag7D97-h99FIuS_dFwkDpSn.1","ozi":"2000.SSZzejyD3yaynFwzpKGIpZ37_hRBJXo4FCRqkeG30SeothRcbWbEXZ7QywwJ14A2DzBnuf82HiSsqlhlaW18n34.1","app.event.zalo.me":"399444826060333826"},
+    "config" : {
+        "thread" : true,
+        "type" : "requests",
+        "runforever" : false
+    }
+
+}
